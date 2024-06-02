@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tamilarasi
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Full Stack Development Projects
 - 📫 How to reach me -tamilarasirajalakshmi@gmail.com
 
