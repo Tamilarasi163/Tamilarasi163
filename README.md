@@ -5,7 +5,7 @@
 
 **Technical Skills:**
 -Front-End: HTML, CSS, JavaScript, React
--Back-End: Java,SpringBoot
+-Back-End: Java,Python,SpringBoot
 -Databases: MySQL, PostgreSQL
 -Tools: Swagger-UI
 -Experience: AWS
